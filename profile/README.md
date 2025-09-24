@@ -1,18 +1,18 @@
 # 🎓 Archi's Academy
 
-🚀 **Experiential Learning, Work Simulation, and Personalized Mentorship** – Archi’s Academy is shaping the future of education with an **AI-powered, project-based LMS**.  
+🚀 **Experiential Learning, Work Simulation, and Personalized Mentorship**: Archi’s Academy is shaping the future of education with an **AI-powered, project-based LMS**.  
 🌍 Based in Türkiye, with a global mission to transform how learners gain skills and confidence for the digital era.  
 
 ---
 
 ## ✨ What We Do
-- 🧪 **Experiential Learning** – Learn by doing through real-world projects.  
-- 📝 **Experiential Assessments** – Go beyond theory with practical evaluations.  
-- 🛠️ **Work Simulation** – Hands-on simulations that mirror industry environments.  
-- 🤝 **Personalized Mentorship** – Guided by experts to ensure growth and mastery.  
-- 📊 **Corporate Training Solutions** – Custom and white-label training programs.  
-- 🎯 **AI-powered Personalization** – Adaptive roadmaps for every learner.  
-- 🎓 **Scholarships** – Supporting underprivileged learners globally.  
+- 🧪 **Experiential Learning**: Learn by doing through real-world projects.  
+- 📝 **Experiential Assessments**: Go beyond theory with practical evaluations.  
+- 🛠️ **Work Simulation**: Hands-on simulations that mirror industry environments.  
+- 🤝 **Personalized Mentorship**: Guided by experts to ensure growth and mastery.  
+- 📊 **Corporate Training Solutions**: Custom and white-label training programs.  
+- 🎯 **AI-powered Personalization**: Adaptive roadmaps for every learner.  
+- 🎓 **Scholarships**: Supporting underprivileged learners globally.  
 
 ---
 
@@ -49,4 +49,4 @@ If you’d like to partner, contribute, or learn more, feel free to reach out!
 
 ---
 
-> “Learning by doing — through Experiential Learning, Assessments, and Work Simulation.”  
+> “Learning by doing, through Experiential Learning, Assessments, and Work Simulation.”  
